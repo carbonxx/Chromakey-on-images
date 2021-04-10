@@ -1,4 +1,4 @@
-ar imgBg, imgFg, canvasBg, canvasFg, ctxFg, ctxBg;
+var imgBg, imgFg, canvasBg, canvasFg, ctxFg, ctxBg;
 
 function uploadBg(){
   canvasBg = document.getElementById("canBg");
